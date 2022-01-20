@@ -1,0 +1,25 @@
+*{
+    font-family: 'Mochiy Pop P One';
+}
+
+#logo{
+    color: blue;
+    font-size: 50px;
+    font-style: italic;
+    outline-color: black;
+
+}
+.secondlogo{
+
+    color:tomato;
+    font-stretch: ;
+}
+
+.secondlogo:hover{
+    color: blue;
+
+}
+.bi{
+    font-size: 30px;
+    color: blue;
+}
